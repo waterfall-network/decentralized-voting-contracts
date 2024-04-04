@@ -8,7 +8,7 @@ Our purpose is to develop approaches to decision-making in Distributed Ledger Te
 
 We propose a procedure for choosing one of two alternatives, in which the voter does not just mark the chosen alternative but indicates their level of support for each of the alternatives, which is then taken into account when determining the winning alternative. This procedure prevents the loss of the opinion of those voters who practically do not like any of the alternatives. Also, it determines the overall level of support for each alternative. This rule can be easily applied to voting with a large number of voters.
 
-### Borda procedure
+### Borda Procedure
 
 The classic Borda preferential procedure requires the voter to perform a comparison of all alternatives and to construct a ranking that does not allow for indifference to the candidates. The considered procedure can be applied to selecting one alternative out of several. Also, it makes it possible to choose several best alternatives, because, after applying this procedure, we get a collective rating of alternatives that takes into account the entire depth of the voting profiles. In this case, the problem of scalability and the problem of the duration of voters' ratings are avoided. 
 
